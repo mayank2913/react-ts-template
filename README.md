@@ -21,18 +21,18 @@ This project is a starter template for building React applications using TypeScr
 ```
 This will launch the development server and open the application in your default web browser. Any changes you make to the source code will be hot-reloaded, allowing you to see the changes instantly.
 ## Resources
-[Vite documentation](https://vitejs.dev/)- Vite documentation provides detailed information on how to customize the build configuration or use additional plugins.
+- [Vite documentation](https://vitejs.dev/)- Vite documentation provides detailed information on how to customize the build configuration or use additional plugins.
 
-[React documentation](https://legacy.reactjs.org/docs/getting-started.html) - React documentation is a valuable resource for learning React concepts and finding information on how to use React components and APIs.
+- [React documentation](https://legacy.reactjs.org/docs/getting-started.html) - React documentation is a valuable resource for learning React concepts and finding information on how to use React components and APIs.
 
-[TypeScript documentation](https://www.typescriptlang.org/docs/) - TypeScript documentation provides comprehensive information on TypeScript language features and how to use them effectively.
+- [TypeScript documentation](https://www.typescriptlang.org/docs/) - TypeScript documentation provides comprehensive information on TypeScript language features and how to use them effectively.
 
-[Tailwind CSS documentation]() - Tailwind CSS documentation contains detailed information on how to use Tailwind CSS utility classes to style your components.
+- [Tailwind CSS documentation]() - Tailwind CSS documentation contains detailed information on how to use Tailwind CSS utility classes to style your components.
 
-[Ant Design documentation](https://ant.design/) - Ant Design documentation provides information on how to use Ant Design UI components in your application.
+- [Ant Design documentation](https://ant.design/) - Ant Design documentation provides information on how to use Ant Design UI components in your application.
 ## Tech Stack
 
-**Client:** React, TailwindCSS, Vite, Antdesign
+- **Client:** React, TailwindCSS, Vite, Antdesign
 
-**Server:** Golang
+- **Server:** Golang
 
